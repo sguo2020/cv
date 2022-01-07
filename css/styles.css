@@ -53,6 +53,8 @@
     }
 
     .top-container {
+        width: 30%;
+        margin: 0px auto;
         padding-top: 100px;
         background-color: #E4F9F5;
         position: relative;
