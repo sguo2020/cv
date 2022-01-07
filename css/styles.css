@@ -49,11 +49,13 @@
       }
 
     p {
+
+
         line-height:2;
     }
 
     .top-container {
-        width: 30%;
+        width: 35%;
         margin: 0px auto;
         padding-top: 100px;
         background-color: #E4F9F5;
@@ -61,6 +63,7 @@
     }
 
     .middle-container {
+
         margin:50px auto;
         text-align: auto;
     }
@@ -98,9 +101,9 @@
         }
 
     .text {
-        margin: 10px auto;
-        text-align: center;
-        width: 50%
+    margin: 10px auto;
+    text-align: center;
+    width: 50%
     }
 
     .python { width:95px; height:100px;; float: left; margin: 10px 30px 0px 0px;}
@@ -149,3 +152,7 @@
       text-decoration: none;
     }
 
+    #top {
+        width: 25%;
+        margin: 0px auto;
+    }
