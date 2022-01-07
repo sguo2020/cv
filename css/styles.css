@@ -34,9 +34,10 @@
 
     h3 {
         color: #11999E;
-        margin-top: 0;
-        margin-bottom: 0px;
-        font-family: 'Montserrat', sans-serif;}
+        width:50%
+        margin: 0, auto;
+        font-family: 'Montserrat', sans-serif;
+        }
 
      hr {
       width: 5%;
@@ -106,7 +107,7 @@
     .text {
     margin: 10px auto;
     text-align: center;
-    width: 50%
+    width: 80%
     }
 
     .python { width:95px; height:100px;; float: left; margin: 10px 30px 0px 0px;}
