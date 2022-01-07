@@ -89,16 +89,16 @@
     }
 
     .skill-row {
-        width: 50%;
+        width: 35%;
         margin: 50px auto;
         text-align: left;
         line-height:1.5;
         }
 
     .text {
-    margin: 10px auto;
-    text-align: center;
-    width: 50%
+        margin: 10px auto;
+        text-align: center;
+        width: 50%
     }
 
     .python { width:95px; height:100px;; float: left; margin: 10px 30px 0px 0px;}
