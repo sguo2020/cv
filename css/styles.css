@@ -90,7 +90,7 @@
     }
 
     .intro {
-        width: 30%;
+        width: 50%;
         margin: auto;
     }
 
@@ -104,9 +104,9 @@
         }
 
     .text {
-    margin: 10px auto;
-    text-align: center;
-    width: 50%
+        margin: 10px auto;
+        text-align: center;
+        width: 50%
     }
 
     .python { width:95px; height:100px;; float: left; margin: 10px 30px 0px 0px;}
